@@ -32,6 +32,8 @@ Requirements
 - libxkbcommon >= 0.5.0
 - libxkbcommon-x11 >= 0.5.0
 
+Ubuntu: sudo apt-get install pkg-config libxcb1 libpam-dev libcairo-dev libxcb-composite0 libxcb-composite0-dev libxcb-xinerama0-dev libev-dev libx11-dev libx11-xcb-dev libxkbcommon0 libxkbcommon-x11-0 libxcb-dpms0-dev libxcb-image0-dev libxcb-util0-dev libxcb-xkb-dev libxkbcommon-x11-dev libxkbcommon-dev
+
 Running i3lock
 -------------
 Simply invoke the 'i3lock' command. To get out of it, enter your password and
